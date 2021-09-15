@@ -3,4 +3,4 @@ My first repository
 
 Hi!
 
-I like research and sailing.
+Mikko here, I like research and sailing.
